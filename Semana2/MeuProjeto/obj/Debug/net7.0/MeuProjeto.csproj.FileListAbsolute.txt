@@ -1,0 +1,15 @@
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/bin/Debug/net7.0/MeuProjeto
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/bin/Debug/net7.0/MeuProjeto.deps.json
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/bin/Debug/net7.0/MeuProjeto.runtimeconfig.json
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/bin/Debug/net7.0/MeuProjeto.dll
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/bin/Debug/net7.0/MeuProjeto.pdb
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/obj/Debug/net7.0/MeuProjeto.csproj.AssemblyReference.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/obj/Debug/net7.0/MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/obj/Debug/net7.0/MeuProjeto.AssemblyInfoInputs.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/obj/Debug/net7.0/MeuProjeto.AssemblyInfo.cs
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/obj/Debug/net7.0/MeuProjeto.csproj.CoreCompileInputs.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/obj/Debug/net7.0/MeuProjeto.dll
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/obj/Debug/net7.0/refint/MeuProjeto.dll
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/obj/Debug/net7.0/MeuProjeto.pdb
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/obj/Debug/net7.0/MeuProjeto.genruntimeconfig.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/MeuProjeto/obj/Debug/net7.0/ref/MeuProjeto.dll

@@ -1,0 +1,15 @@
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/bin/Debug/net7.0/Fibonacci
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/bin/Debug/net7.0/Fibonacci.deps.json
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/bin/Debug/net7.0/Fibonacci.runtimeconfig.json
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/bin/Debug/net7.0/Fibonacci.dll
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/bin/Debug/net7.0/Fibonacci.pdb
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/obj/Debug/net7.0/Fibonacci.csproj.AssemblyReference.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/obj/Debug/net7.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/obj/Debug/net7.0/Fibonacci.AssemblyInfoInputs.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/obj/Debug/net7.0/Fibonacci.AssemblyInfo.cs
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/obj/Debug/net7.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/obj/Debug/net7.0/Fibonacci.dll
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/obj/Debug/net7.0/refint/Fibonacci.dll
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/obj/Debug/net7.0/Fibonacci.pdb
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/obj/Debug/net7.0/Fibonacci.genruntimeconfig.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/Fibonacci/obj/Debug/net7.0/ref/Fibonacci.dll
