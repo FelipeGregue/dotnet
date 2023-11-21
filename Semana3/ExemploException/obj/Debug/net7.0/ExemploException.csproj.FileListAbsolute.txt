@@ -1,0 +1,15 @@
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/obj/Debug/net7.0/ExemploException.csproj.AssemblyReference.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/obj/Debug/net7.0/ExemploException.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/obj/Debug/net7.0/ExemploException.AssemblyInfoInputs.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/obj/Debug/net7.0/ExemploException.AssemblyInfo.cs
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/obj/Debug/net7.0/ExemploException.csproj.CoreCompileInputs.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/bin/Debug/net7.0/ExemploException
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/bin/Debug/net7.0/ExemploException.deps.json
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/bin/Debug/net7.0/ExemploException.runtimeconfig.json
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/bin/Debug/net7.0/ExemploException.dll
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/bin/Debug/net7.0/ExemploException.pdb
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/obj/Debug/net7.0/ExemploException.dll
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/obj/Debug/net7.0/refint/ExemploException.dll
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/obj/Debug/net7.0/ExemploException.pdb
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/obj/Debug/net7.0/ExemploException.genruntimeconfig.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/ExemploException/obj/Debug/net7.0/ref/ExemploException.dll
