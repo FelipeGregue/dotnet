@@ -1,0 +1,5 @@
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/Aula05Exercicios/obj/Debug/net7.0/Aula05Exercicios.csproj.AssemblyReference.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/Aula05Exercicios/obj/Debug/net7.0/Aula05Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/Aula05Exercicios/obj/Debug/net7.0/Aula05Exercicios.AssemblyInfoInputs.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/Aula05Exercicios/obj/Debug/net7.0/Aula05Exercicios.AssemblyInfo.cs
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/Aula05Exercicios/obj/Debug/net7.0/Aula05Exercicios.csproj.CoreCompileInputs.cache

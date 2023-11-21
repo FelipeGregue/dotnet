@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/ExercicioExemploAula2/ExercicioExemploAula2.csproj",
-      "projectName": "ExercicioExemploAula2",
-      "projectPath": "/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/ExercicioExemploAula2/ExercicioExemploAula2.csproj",
+      "projectUniqueName": "/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/LambdaExemplo.csproj",
+      "projectName": "LambdaExemplo",
+      "projectPath": "/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/LambdaExemplo.csproj",
       "packagesPath": "/home/felipe-gregue-pires/.nuget/packages/",
-      "outputPath": "/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana2/ExercicioExemploAula2/obj/",
+      "outputPath": "/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/felipe-gregue-pires/.nuget/NuGet/NuGet.Config"

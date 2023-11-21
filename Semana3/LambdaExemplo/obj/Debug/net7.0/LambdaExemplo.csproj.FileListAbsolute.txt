@@ -1,0 +1,15 @@
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/bin/Debug/net7.0/LambdaExemplo
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/bin/Debug/net7.0/LambdaExemplo.deps.json
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/bin/Debug/net7.0/LambdaExemplo.runtimeconfig.json
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/bin/Debug/net7.0/LambdaExemplo.dll
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/bin/Debug/net7.0/LambdaExemplo.pdb
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/obj/Debug/net7.0/LambdaExemplo.csproj.AssemblyReference.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/obj/Debug/net7.0/LambdaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/obj/Debug/net7.0/LambdaExemplo.AssemblyInfoInputs.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/obj/Debug/net7.0/LambdaExemplo.AssemblyInfo.cs
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/obj/Debug/net7.0/LambdaExemplo.csproj.CoreCompileInputs.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/obj/Debug/net7.0/LambdaExemplo.dll
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/obj/Debug/net7.0/refint/LambdaExemplo.dll
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/obj/Debug/net7.0/LambdaExemplo.pdb
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/obj/Debug/net7.0/LambdaExemplo.genruntimeconfig.cache
+/home/felipe-gregue-pires/Área de trabalho/dotnet/Semana3/LambdaExemplo/obj/Debug/net7.0/ref/LambdaExemplo.dll
